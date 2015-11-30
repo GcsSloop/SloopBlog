@@ -1,25 +1,24 @@
 # Rocker
-°²×¿ĞéÄâÒ¡¸Ë
-### ×÷ÕßÎ¢²©: [@°²×¿¹¥³ÇÊ¦sloop](http://weibo.com/5459430586)
-## [»ñÈ¡´úÂë£ºRocker](https://github.com/GcsSloop/Rocker)
+å®‰å“è™šæ‹Ÿæ‘‡æ†
+### ä½œè€…å¾®åš: [@å®‰å“æ”»åŸå¸ˆsloop](http://weibo.com/5459430586)
 
-# ËµÃ÷
-ÓÉÓÚĞèÒªÖÆ×÷Ò»¸ö¿ØÖÆĞ¡³µÒÆ¶¯µÄÓ¦ÓÃ£¬Ê¹ÓÃ°´¼ü¿ØÖÆ²»Ì«Êæ·ş£¬¹ÊÖÆ×÷ÁËÒ»¸öĞéÄâÒ¡¸Ë¡£
+# è¯´æ˜
+ç”±äºéœ€è¦åˆ¶ä½œä¸€ä¸ªæ§åˆ¶å°è½¦ç§»åŠ¨çš„åº”ç”¨ï¼Œä½¿ç”¨æŒ‰é”®æ§åˆ¶ä¸å¤ªèˆ’æœï¼Œæ•…åˆ¶ä½œäº†ä¸€ä¸ªè™šæ‹Ÿæ‘‡æ†ã€‚
 
-¸ÃÒ¡¸ËÔ­ÀíÊ®·Ö¼òµ¥£¬¾ÍÊÇ¼Ì³ĞÒ»¸ösurfaceView£¬È»ºó¸ù¾İÓÃ»§²Ù×÷²»¶ÏÖØ»æ½çÃæ£¬Í¬Ê±·µ»Ø¸øÓÃ»§µ±Ç°½Ç¶È¡£
-Èç¹ûÓÃ»§²»Ö¸¶¨Ò¡¸Ë±³¾°ºÍÒ¡¸Ë£¬ÔòÄ¬ÈÏ»æÖÆÁ½¸öÔ²ĞÎ£¬Ğ§¹ûÈçÏÂÍ¼ËùÊ¾¡£
-<img src="http://img.blog.csdn.net/20150915193841817" width = "240" height = "450" alt="rocker3" align=center />  <img src="http://img.blog.csdn.net/20150915194048856" width = "240" height = "450" alt="rocker3" align=center />
+è¯¥æ‘‡æ†åŸç†ååˆ†ç®€å•ï¼Œå°±æ˜¯ç»§æ‰¿ä¸€ä¸ªsurfaceViewï¼Œç„¶åæ ¹æ®ç”¨æˆ·æ“ä½œä¸æ–­é‡ç»˜ç•Œé¢ï¼ŒåŒæ—¶è¿”å›ç»™ç”¨æˆ·å½“å‰è§’åº¦ã€‚
+å¦‚æœç”¨æˆ·ä¸æŒ‡å®šæ‘‡æ†èƒŒæ™¯å’Œæ‘‡æ†ï¼Œåˆ™é»˜è®¤ç»˜åˆ¶ä¸¤ä¸ªåœ†å½¢ï¼Œæ•ˆæœå¦‚ä¸‹å›¾æ‰€ç¤ºã€‚
+
+<img src="https://github.com/GcsSloop/Rocker/blob/master/art/Rocker3.jpeg" width = "320" height = "560" alt="rocker3" align=center />  <img src="https://github.com/GcsSloop/Rocker/blob/master/art/Rocker4.jpeg" width = "320" height = "560" alt="rocker3" align=center />
+ 
+æ‘‡æ†çš„å›¾ç‰‡å’ŒèƒŒæ™¯å›¾ç‰‡å¯ä»¥éšæ„æŒ‡å®šï¼Œå¹¶ä¸”åœ¨è¿è¡Œè¿‡ç¨‹ä¸­ä¹Ÿå¯ä»¥æ›´æ¢ï¼ˆpsï¼šå›¾ç‰‡å†…å®¹éœ€è¦ä¸ºåœ†å½¢ä¸”èƒŒæ™¯é€æ˜ï¼‰ï¼ŒæŒ‡å®šå›¾ç‰‡åæ•ˆæœå¦‚ä¸‹ï¼š
+
+ <img src="https://github.com/GcsSloop/Rocker/blob/master/art/Rocker1.jpeg" width = "320" height = "560" alt="rocker3" align=center />  <img src="https://github.com/GcsSloop/Rocker/blob/master/art/Rocker2.jpeg" width = "320" height = "560" alt="rocker3" align=center />
+ 
+## <a href="http://pan.baidu.com/share/link?shareid=1802923607&uk=3009583694&fid=188394437825762" target="_blank">ç‚¹å‡»è¿™é‡Œå¯ä»¥è§‚çœ‹æ•ˆæœè§†é¢‘</a>
 
  
-Ò¡¸ËµÄÍ¼Æ¬ºÍ±³¾°Í¼Æ¬¿ÉÒÔËæÒâÖ¸¶¨£¬²¢ÇÒÔÚÔËĞĞ¹ı³ÌÖĞÒ²¿ÉÒÔ¸ü»»£¨ps£ºÍ¼Æ¬ÄÚÈİĞèÒªÎªÔ²ĞÎÇÒ±³¾°Í¸Ã÷£©£¬Ö¸¶¨Í¼Æ¬ºóĞ§¹ûÈçÏÂ£º
-
-<img src="http://img.blog.csdn.net/20150915194120248" width = "240" height = "450" alt="rocker3" align=center />  <img src="http://img.blog.csdn.net/20150915194139505" width = "240" height = "450" alt="rocker3" align=center />
-
-## <a href="http://pan.baidu.com/share/link?shareid=1802923607&uk=3009583694&fid=188394437825762" target="_blank">µã»÷ÕâÀï¿ÉÒÔ¹Û¿´Ğ§¹ûÊÓÆµ</a>
-
- 
-# Ê¹ÓÃÊ¾Àı£º
-## 1.ÔÚ²¼¾ÖÎÄ¼şÖĞÌí¼ÓÒ¡¸Ë
+# ä½¿ç”¨ç¤ºä¾‹ï¼š
+## 1.åœ¨å¸ƒå±€æ–‡ä»¶ä¸­æ·»åŠ æ‘‡æ†
  
 
      <com.sloop.widget.Rocker
@@ -27,7 +26,7 @@
          android:layout_width="match_parent"
          android:layout_height="match_parent" />
 
-##  2.ÕÒµ½¸Ã×é¼ş£¬Ö¸¶¨Ò¡¸ËÍ¼Æ¬ºÍ±³¾°Í¼Æ¬£¨¿ÉÊ¡ÂÔ£©
+##  2.æ‰¾åˆ°è¯¥ç»„ä»¶ï¼ŒæŒ‡å®šæ‘‡æ†å›¾ç‰‡å’ŒèƒŒæ™¯å›¾ç‰‡ï¼ˆå¯çœç•¥ï¼‰
  
     Rocker rocker = (Rocker) findViewById(R.id.rudder);
 		Bitmap rocker_bg = BitmapFactory.decodeResource(getResources(), R.drawable.rocker_bg1);
@@ -35,43 +34,41 @@
 		rocker.setRockerBg(rocker_bg);
 		rocker.setRockerCtrl(rocker_ctrl);
 		
-## 3.ÉèÖÃ¼àÌıÆ÷»ñµÃÒ¡¸Ë×´Ì¬
+## 3.è®¾ç½®ç›‘å¬å™¨è·å¾—æ‘‡æ†çŠ¶æ€
 
       rocker.setRudderListener(new Rocker.RudderListener() {
   			@Override
   			public void onSteeringWheelChanged(int action, int angle) {
   				if (action == Rocker.ACTION_RUDDER) {
-  					//TODO:ÊÂ¼şÊµÏÖ
-  					Log.e("¼Ğ½Ç", "angle"+angle);
+  					//TODO:äº‹ä»¶å®ç°
+  					Log.e("å¤¹è§’", "angle"+angle);
   				}
   			}
 		});
 		
-# ×é¼şÉèÖÃ²ÎÊıµÄ·½·¨£º
+# ç»„ä»¶è®¾ç½®å‚æ•°çš„æ–¹æ³•ï¼š
 
-    /** ÉèÖÃÒ¡¸Ë±³¾°Í¼  */
+    /** è®¾ç½®æ‘‡æ†èƒŒæ™¯å›¾  */
     public void setRockerBg(Bitmap bitmap) {
         rocker_bg = Bitmap.createScaledBitmap(bitmap, mWheelRadius * 2, mWheelRadius * 2, true);
     }
 
-    /** ÉèÖÃÒ¡¸ËÍ¼Æ¬ */
+    /** è®¾ç½®æ‘‡æ†å›¾ç‰‡ */
     public void setRockerCtrl(Bitmap bitmap) {
         rocker_ctrl = Bitmap.createScaledBitmap(bitmap, mRudderRadius * 2, mRudderRadius * 2, true);
     }
 
-    /** ÉèÖÃÒ¡¸Ë»î¶¯°ë¾¶  */
+    /** è®¾ç½®æ‘‡æ†æ´»åŠ¨åŠå¾„  */
     public void setmWheelRadius(int radius) {
         mWheelRadius = DensityUtil.dip2px((ContextThemeWrapper) context, radius);
     }
 
-    /** ÉèÖÃÒ¡¸Ë°ë¾¶ */
+    /** è®¾ç½®æ‘‡æ†åŠå¾„ */
     public void setmRudderRadius(int radius) {
         mRudderRadius = DensityUtil.dip2px((ContextThemeWrapper) context, radius);
     }
 
-#### ps£ºÒ¡¸ËÎ»ÖÃÄ¬ÈÏ´¦ÓÚsurfaceViewµÄÖĞĞÄ£¬¹ÊÕâÀïÃ»ÓĞÌá¹©ÉèÖÃÒ¡¸ËÎ»ÖÃµÄ·½·¨¡£
+#### psï¼šæ‘‡æ†ä½ç½®é»˜è®¤å¤„äºsurfaceViewçš„ä¸­å¿ƒï¼Œæ•…è¿™é‡Œæ²¡æœ‰æä¾›è®¾ç½®æ‘‡æ†ä½ç½®çš„æ–¹æ³•ã€‚
 
-### ²Î¿¼µÄÎÄÕÂ£º [android ĞéÄâÒ¡¸ËÍ¼Æ¬°æ](http://blog.csdn.net/jwzhangjie/article/details/8839744)
-### ×÷ÕßÎ¢²©: [@°²×¿¹¥³ÇÊ¦sloop](http://weibo.com/5459430586)
-## [»ñÈ¡´úÂë£ºRocker](https://github.com/GcsSloop/Rocker)
-
+### å‚è€ƒçš„æ–‡ç« ï¼š [android è™šæ‹Ÿæ‘‡æ†å›¾ç‰‡ç‰ˆ](http://blog.csdn.net/jwzhangjie/article/details/8839744)
+### ä½œè€…å¾®åš: [@å®‰å“æ”»åŸå¸ˆsloop](http://weibo.com/5459430586)
