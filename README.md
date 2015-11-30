@@ -1,1 +1,20 @@
 # AndroidBlog
+
+## 攻城师Sloop的安卓微博客
+由于懒得建立个人站点，（虽然尝试建过，但是最终因为太丑而放弃） 就直接将这一个GitHub仓库暂时作为我的博客地址。
+
+-----
+
+## 目录
+年 | 月 | 文章
+--- | --- | ---
+2015 | 10 | [安卓统一添加activity切换动画](https://github.com/GcsSloop/AndroidBlog/blob/master/2015-10/14%20%E5%AE%89%E5%8D%93%E7%BB%9F%E4%B8%80%E6%B7%BB%E5%8A%A0activity%E5%88%87%E6%8D%A2%E5%8A%A8%E7%94%BB/%E5%AE%89%E5%8D%93%E7%BB%9F%E4%B8%80%E6%B7%BB%E5%8A%A0activity%E5%88%87%E6%8D%A2%E5%8A%A8%E7%94%BB.md)
+2015 | 11 | [AndroidStudio中使用PlantUML](https://github.com/GcsSloop/AndroidBlog/blob/master/2015-11/30%20AndroidStudio%E4%B8%AD%E4%BD%BF%E7%94%A8PlantUML/AndroidStudio%E4%B8%AD%E4%BD%BF%E7%94%A8PlantUML.md)
+
+------
+
+
+## Developer
+![](https://avatars0.githubusercontent.com/u/9796998?v=3&s=200)
+### [攻城师sloop的微博](http://weibo.com/5459430586/profile?topnav=1&wvr=6)
+
