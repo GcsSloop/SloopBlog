@@ -6,7 +6,8 @@
 ## 目录
 年 | 月 | 文章
 --- | --- | ---
-2016 | 01 | [安卓自定义View基础-角度与弧度](https://github.com/GcsSloop/AndroidNote/blob/master/%E9%97%AE%E9%A2%98/%E8%A7%92%E5%BA%A6%E4%B8%8E%E5%BC%A7%E5%BA%A6/%E8%A7%92%E5%BA%A6%E4%B8%8E%E5%BC%A7%E5%BA%A6.md)
+ 2016 | 01 |  [安卓自定义View基础-颜色](https://github.com/GcsSloop/AndroidNote/blob/master/%E9%97%AE%E9%A2%98/%E9%A2%9C%E8%89%B2/%E9%A2%9C%E8%89%B2.md) | 介绍安卓中颜色相关问题
+ | | [安卓自定义View基础-角度与弧度](https://github.com/GcsSloop/AndroidNote/blob/master/%E9%97%AE%E9%A2%98/%E8%A7%92%E5%BA%A6%E4%B8%8E%E5%BC%A7%E5%BA%A6/%E8%A7%92%E5%BA%A6%E4%B8%8E%E5%BC%A7%E5%BA%A6.md)
  |  | [安卓自定义View基础-坐标系](https://github.com/GcsSloop/AndroidNote/blob/master/%E9%97%AE%E9%A2%98/%E5%9D%90%E6%A0%87%E7%B3%BB/%E5%9D%90%E6%A0%87%E7%B3%BB.md)
 2015 | 11 | [AndroidStudio中使用PlantUML](https://github.com/GcsSloop/AndroidBlog/blob/master/2015-11/AndroidStudio%E4%B8%AD%E4%BD%BF%E7%94%A8PlantUML.md)
 2015 | 10 | [安卓统一添加activity切换动画](https://github.com/GcsSloop/AndroidBlog/blob/master/2015-10/%E5%AE%89%E5%8D%93%E7%BB%9F%E4%B8%80%E6%B7%BB%E5%8A%A0activity%E5%88%87%E6%8D%A2%E5%8A%A8%E7%94%BB.md)
