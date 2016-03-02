@@ -6,6 +6,7 @@
 ## 目录
 年 | 月 | 文章
 --- | --- | ---
+ 2016 | 03 |  [安卓自定义View进阶-Canvas(4)Path1](https://github.com/GcsSloop/AndroidNote/blob/master/%E9%97%AE%E9%A2%98/Canvas/Path/Path(1).md)
  2016 | 02 | [安卓自定义View进阶-Canvas(3)图片与文字](https://github.com/GcsSloop/AndroidNote/blob/master/%E9%97%AE%E9%A2%98/Canvas/Canvas(3).md)
  2016 | 01 | [安卓自定义View进阶-Canvas(2)画布操作](https://github.com/GcsSloop/AndroidNote/blob/master/%E9%97%AE%E9%A2%98/Canvas/Canvas(2).md)
   | | [安卓自定义View进阶-Canvas(1)颜色与基本形状](https://github.com/GcsSloop/AndroidNote/blob/master/%E9%97%AE%E9%A2%98/Canvas/Canvas(1).md)
