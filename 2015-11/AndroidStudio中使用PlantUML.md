@@ -1,4 +1,4 @@
-# AndroidStudio中使用PlantUML.md
+# AndroidStudio中使用PlantUML
 
 ### 作者微博: [@攻城师sloop](http://weibo.com/GcsSloop)
 
