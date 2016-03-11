@@ -42,7 +42,7 @@
 #### 讲到这里，就已经安装完成了，可以愉快的用代码来书写UML图了。
 #### 什么？你说你还不会书写的语法？没关系，其实我也不会，不过我有一个好的教程推荐给你，相信你看完就明白啦。
 ## 四.用正确的姿势学习使用UML
-### 1.[【PlantUML快速指南戳这里】](http://archive.3zso.com/archives/plantuml-quickstart.html#sec-5-4-1)
+### 1.[【PlantUML快速指南戳这里】](http://archive.3zso.com/archives/plantuml-quickstart.html)
 ### 2.注意，这个教程中的语法和AndroidStudio中基本一致，区别就是开始和结束标志不同。
 	
 ####好了，到这里该教程正式结束，祝各位小伙伴能愉快的使用plantUML玩耍。
