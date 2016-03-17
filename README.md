@@ -10,7 +10,7 @@
  2016 | 02 | [安卓自定义View进阶-Canvas(3)图片与文字](https://github.com/GcsSloop/AndroidNote/blob/master/%E9%97%AE%E9%A2%98/Canvas/Canvas(3).md)
  2016 | 01 | [安卓自定义View进阶-Canvas(2)画布操作](https://github.com/GcsSloop/AndroidNote/blob/master/%E9%97%AE%E9%A2%98/Canvas/Canvas(2).md)
   | | [安卓自定义View进阶-Canvas(1)颜色与基本形状](https://github.com/GcsSloop/AndroidNote/blob/master/%E9%97%AE%E9%A2%98/Canvas/Canvas(1).md)
-  | |  [安卓自定义View进阶-流程与重要的函数](https://github.com/GcsSloop/AndroidNote/blob/master/%E9%97%AE%E9%A2%98/View/%E8%87%AA%E5%AE%9A%E4%B9%89View%E5%87%A0%E4%B8%AA%E9%87%8D%E8%A6%81%E7%9A%84%E5%87%BD%E6%95%B0.md)
+  | |  [安卓自定义View进阶-分类与流程](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/CustomViewProcess.md)
  | | [安卓自定义View基础-颜色](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Base/%5B3%5DColor.md) | 介绍安卓中颜色相关问题
  | | [安卓自定义View基础-角度与弧度](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Base/%5B2%5DAngleAndRadian.md)
  |  | [安卓自定义View基础-坐标系](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Base/%5B1%5DCoordinateSystem.md)
