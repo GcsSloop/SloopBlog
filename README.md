@@ -1,4 +1,4 @@
-# <img src="http://ww3.sinaimg.cn/large/005Xtdi2jw1f2jtiwpre0j3074074aaa.jpg" width=32 /> 攻城师Sloop的微博客
+# <img src="http://ww3.sinaimg.cn/large/005Xtdi2jw1f2jtiwpre0j3074074aaa.jpg" width=36 /> 攻城师Sloop的微博客
 由于懒得建立个人站点，（虽然尝试建过，但是最终因为太丑而放弃） 于是就直接将这一个GitHub仓库暂时作为我的博客地址了。
 
 -----
