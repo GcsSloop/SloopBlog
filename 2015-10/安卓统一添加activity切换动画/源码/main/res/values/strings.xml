@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">AvtivityAnim</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_seccond">SeccondActivity</string>
-    <string name="title_activity_third">ThirdActivity</string>
-</resources>
